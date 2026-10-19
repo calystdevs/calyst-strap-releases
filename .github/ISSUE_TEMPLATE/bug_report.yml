@@ -1,0 +1,54 @@
+name: Bug report
+description: Report a reproducible problem in Calyst Strap.
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "Please report one issue per form. Remove keys, cookies, tokens and personal information before posting logs or screenshots. For setup help, use the Discord support link."
+  - type: input
+    id: version
+    attributes:
+      label: Calyst Strap version
+      placeholder: "For example: 2.0.9"
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      placeholder: "For example: Windows 11, 64-bit"
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: What did you click or change before the problem appeared?
+      placeholder: "1. Open ...\n2. Select ...\n3. ..."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+      description: Include the exact short error message if there is one.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Console details or screenshots
+      description: Optional. Check for secrets before attaching anything.
+  - type: input
+    id: roblox
+    attributes:
+      label: Roblox build
+      description: Optional. Helpful for launch, Fast Flags and skin reports.
+      placeholder: "version-..."
