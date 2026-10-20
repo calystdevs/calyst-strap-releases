@@ -13,7 +13,7 @@ Windows launcher and client-management tools by **Catalyst Services**.
 <a href="https://discord.gg/tYp786QfMX"><img alt="Discord community" src="https://img.shields.io/badge/DISCORD-Community-5865F2?style=for-the-badge&amp;labelColor=1B1D22&amp;logo=discord&amp;logoColor=white" /></a>
 <a href="https://www.youtube.com/@calyst-devs"><img alt="YouTube tutorials" src="https://img.shields.io/badge/YOUTUBE-Tutorials-FF0033?style=for-the-badge&amp;labelColor=1B1D22&amp;logo=youtube&amp;logoColor=white" /></a>
 
-**[View releases](https://github.com/calystdevs/calyst-strap-releases/releases)** &nbsp; / &nbsp; **[Join Discord](https://discord.gg/tYp786QfMX)** &nbsp; / &nbsp; **[Watch tutorials](https://www.youtube.com/@calyst-devs)**
+**[Download for Windows](https://github.com/calystdevs/calyst-strap-releases/releases/latest/download/Calyst-Strap-Setup.exe)** &nbsp; / &nbsp; **[Join Discord](https://discord.gg/tYp786QfMX)** &nbsp; / &nbsp; **[Watch tutorials](https://www.youtube.com/@calyst-devs)**
 
 If Calyst helps your workflow, consider giving the project a star.
 
@@ -24,9 +24,11 @@ If Calyst helps your workflow, consider giving the project a star.
 
 Calyst Strap brings Roblox launch controls, accounts, Fast Flags, customisation and window tools into one Windows workspace.
 
-## Release status
+## Latest release
 
-The next release is being prepared. Installers and changelogs will appear in **[Releases](https://github.com/calystdevs/calyst-strap-releases/releases)** after the build has been tested and signed for the updater.
+**Calyst Strap v2.0.9 is available.** [Download the latest Windows setup](https://github.com/calystdevs/calyst-strap-releases/releases/latest/download/Calyst-Strap-Setup.exe) or read the [full changelog](https://github.com/calystdevs/calyst-strap-releases/releases/latest).
+
+Upgrading from the previous download repository? Install this replacement once. Existing per-user accounts and preferences are retained, and future updates use this official repository.
 
 ## Features
 
