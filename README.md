@@ -26,7 +26,7 @@ Calyst Strap brings Roblox launch controls, accounts, Fast Flags, customisation 
 
 ## Latest release
 
-**Calyst Strap v2.0.9 is available.** [Download the latest Windows setup](https://github.com/calystdevs/calyst-strap-releases/releases/latest/download/Calyst-Strap-Setup.exe) or read the [full changelog](https://github.com/calystdevs/calyst-strap-releases/releases/latest).
+**Calyst Strap v2.1.0 is available.** [Download the latest Windows setup](https://github.com/calystdevs/calyst-strap-releases/releases/latest/download/Calyst-Strap-Setup.exe) or read the [full changelog](https://github.com/calystdevs/calyst-strap-releases/releases/latest).
 
 Upgrading from the previous download repository? Install this replacement once. Existing per-user accounts and preferences are retained, and future updates use this official repository.
 
